@@ -1,0 +1,13 @@
+*{
+    font-family: 'Roboto Mono', monospace;
+}
+body{
+    background-color: #02010A;
+}
+h1{
+    text-transform: uppercase;
+}
+h1,#text{
+    text-align: center;
+    color: white;
+}
